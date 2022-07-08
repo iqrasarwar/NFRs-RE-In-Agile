@@ -6,15 +6,15 @@ Research Paper Submitted for fulfillment Of Semester Project For Software Requir
 
 ## “Requirement Engineering Process For Non-Functional Requirements In Agile Projects”
 
-by
+- **Written By**
 
 - BSEF19M004 - Hurmain Javaid
 - BSEF19M007 - Anns Shahbaz
 - BSEF19M010 - Nimra Haq
 - BSEF19M012 - Iqra Sarwar
 
-To
+- **Submitted To**
 
-** Ma’am Amna Mirza **
+- ** Ma’am Amna Mirza **
 
-** Faculty Of Computing and Information Technology ** 
+- ** Faculty Of Computing and Information Technology ** 
