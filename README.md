@@ -18,7 +18,7 @@ Research Paper Submitted for fulfillment Of Semester Project For Software Requir
 
 ### Contents
 
-- Introduction
+- **Introduction**
 -   Requirement Engineering
   -   Elicitation
   -   Analysis
@@ -27,12 +27,12 @@ Research Paper Submitted for fulfillment Of Semester Project For Software Requir
   -   Management
 -   Agile 
 -   Non-functional Requirements
-- Background
-- Motivation
+- **Background**
+- **Motivation**
 -   Related Work
 -   Summary Of related work
-- Methodology
-- Results
-- Discussion/ Analysis
-- Future Directions
-- Conclusion
+- **Methodology**
+- **Results**
+- **Discussion/ Analysis**
+- **Future Directions**
+- **Conclusion**
