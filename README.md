@@ -14,3 +14,25 @@ Research Paper Submitted for fulfillment Of Semester Project For Software Requir
  **Submitted To** : **Ma’am Amna Mirza**
 
 #### **Faculty Of Computing and Information Technology** 
+
+
+### Contents
+
+- Introduction
+-   Requirement Engineering
+  -   Elicitation
+  -   Analysis
+  -   Documentation
+  -   Validation & Verification
+  -   Management
+-   Agile 
+-   Non-functional Requirements
+- Background
+- Motivation
+-   Related Work
+-   Summary Of related work
+- Methodology
+- Results
+- Discussion/ Analysis
+- Future Directions
+- Conclusion
